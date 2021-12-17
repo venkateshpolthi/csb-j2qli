@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://venkateshpolthi.github.io/csb-j2qli/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://venkateshpolthi.github.io/csb-j2qli/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://venkateshpolthi.github.io/csb-j2qli/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://venkateshpolthi.github.io/csb-j2qli/static/js/runtime-main.79563dba.js",
+    "runtime-main.js.map": "https://venkateshpolthi.github.io/csb-j2qli/static/js/runtime-main.79563dba.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://venkateshpolthi.github.io/csb-j2qli/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://venkateshpolthi.github.io/csb-j2qli/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://venkateshpolthi.github.io/csb-j2qli/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://venkateshpolthi.github.io/csb-j2qli/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://venkateshpolthi.github.io/csb-j2qli/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79563dba.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
